@@ -1,2 +1,3 @@
 # my-website
-repo for training purposes only
+
+This is a really awesome website
